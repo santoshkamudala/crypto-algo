@@ -4,6 +4,7 @@
 #include <limits.h>
 #include <time.h>
 #include "keygen.h"
+
 #include "math.h"
 
 #define RAND_LIMITS 65535
